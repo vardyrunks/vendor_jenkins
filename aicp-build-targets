@@ -2,7 +2,7 @@
 # <Device ID> <lunchcombo> <branch>
 # Device Will need to have branch specified
 
-1 aicp_m7-userdebug lp5.0
+1 aicp_e980-userdebug lp5.0
 2 aicp_endeavoru-userdebug lp5.0
 3 aicp_grouper-userdebug lp5.0
 4 aicp_hammerhead-userdebug lp5.0
